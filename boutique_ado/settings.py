@@ -27,7 +27,7 @@ SECRET_KEY = 'p@ei#69*b*zz3u4yie-$()@cy^l(+x9&@6ypx+r0lm(3%_9hr7'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['https://ado-shop-207197336a59.herokuapp.com/',
+ALLOWED_HOSTS = ['ado-shop-207197336a59.herokuapp.com',
                  '8000-radule90-ado-4woxsg7ssi.us2.codeanyapp.com',]
 
 
